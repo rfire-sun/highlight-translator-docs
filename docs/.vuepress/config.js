@@ -12,4 +12,10 @@ module.exports = {
       },
     ],
   ],
+  themeConfig: {
+    nav: [
+      { text: '首页', link: '/' },
+      { text: '隐私政策', link: '/privacy-policy.html' },
+    ],
+  },
 }
