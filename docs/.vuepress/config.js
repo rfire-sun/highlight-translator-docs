@@ -15,6 +15,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
+      { text: '反馈问题', link: '/issues.html' },
       { text: '隐私政策', link: '/privacy-policy.html' },
     ],
   },
