@@ -27,6 +27,8 @@ module.exports = {
     ],
     repo: 'https://github.com/lmk123/crx-selection-translate',
     repoLabel: '查看源码',
+    docsRepo: 'lmk123/highlight-translator-docs',
+    docsDir: 'docs',
     editLinks: true,
     editLinkText: '在 GitHub 上编辑此页',
   },
