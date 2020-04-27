@@ -28,6 +28,10 @@ Chrome 用户可以使用以下两种方式安装：
 - 去 [Chrome 扩展商店](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad)在线安装
 - [下载离线安装包手动安装](./install.html)（建议打不开 Chrome 扩展商店的用户使用这种方式）
 
+:::danger 注意！！
+由于我的误操作，我不小心把划词翻译从 Chrome 扩展商店里下架了，目前正在联系 Chrome 扩展商店的支持团队尽快恢复。在恢复之前，请通过[下载离线安装包手动安装](./install.html)的方式安装划词翻译。
+:::
+
 ### Firefox 浏览器
 
 ![Firefox 扩展商店版本](https://img.shields.io/amo/v/hcfy?style=flat-square&label=版本)
