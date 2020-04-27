@@ -1,6 +1,7 @@
 module.exports = {
   title: '划词翻译',
   description: '让浏览不同语言的网站变得无比轻松的浏览器扩展程序。',
+  head: [['link', { rel: 'icon', href: './logo.png' }]],
   plugins: [
     '@vuepress/nprogress',
     '@vuepress/back-to-top',
@@ -13,10 +14,22 @@ module.exports = {
     ],
   ],
   themeConfig: {
+    sidebar: 'auto',
+    logo: './logo.png',
+    smoothScroll: true,
+    lastUpdated: '上次更新', // string | boolean
     nav: [
       { text: '首页', link: '/' },
+      { text: '使用帮助', link: '/manual.html' },
+      { text: '常见问题', link: '/faq.html' },
       { text: '反馈问题', link: '/issues.html' },
       { text: '隐私政策', link: '/privacy-policy.html' },
     ],
+    repo: 'https://github.com/lmk123/crx-selection-translate',
+    repoLabel: '查看源码',
+    docsRepo: 'lmk123/highlight-translator-docs',
+    docsDir: 'docs',
+    editLinks: true,
+    editLinkText: '在 GitHub 上编辑此页',
   },
 }
