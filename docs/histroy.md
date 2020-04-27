@@ -40,7 +40,15 @@
 
 划词翻译[加入了 PDF 翻译功能](https://github.com/lmk123/crx-selection-translate/pull/159)。
 
-## 2020 年
+## 2019 年 10 月 12 日
+
+划词翻译支持了 Firefox 浏览器，并在 [Firefox 扩展商店](https://addons.mozilla.org/zh-CN/firefox/addon/hcfy/)上架。
+
+## 2020 年 4 月 10 日
+
+划词翻译支持了 Microsoft Edge 浏览器，并在 [Microsoft Edge 扩展商店](https://microsoftedge.microsoft.com/addons/detail/oikmahiipjniocckomdccmplodldodja)上架。
+
+## 2020 年 5 月
 
 未完待续。
 
