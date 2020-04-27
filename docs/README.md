@@ -7,6 +7,10 @@ tagline: 让浏览不同语言的网站变得无比轻松的浏览器扩展程�
 
 ## 特点
 
+### 麻雀虽小，五脏俱全
+
+划词即显示翻译结果，简单、方便、迅速，并且支持多种语言的朗读；能翻译 PDF 文档；支持多种翻译引擎：[有道翻译](http://fanyi.youdao.com/)、[百度翻译](http://fanyi.baidu.com/)、[谷歌翻译](https://translate.google.cn/)。
+
 ### 持续更新近 7 年
 
 自 2013 年 5 月 18 日发布第一个版本至今，**划词翻译已持续维护了近 7 年时间**。[查看划词翻译大事记](./histroy.html)
@@ -25,12 +29,12 @@ tagline: 让浏览不同语言的网站变得无比轻松的浏览器扩展程�
 
 Chrome 用户可以使用以下两种方式安装：
 
-- 去 [Chrome 扩展商店](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad)在线安装
-- [下载离线安装包手动安装](./install.html)（建议打不开 Chrome 扩展商店的用户使用这种方式）
-
 :::danger 注意！！
 由于我的误操作，我不小心把划词翻译从 Chrome 扩展商店里下架了，目前正在联系 Chrome 扩展商店的支持团队尽快恢复。在恢复之前，请通过[下载离线安装包手动安装](./install.html)的方式安装划词翻译。
 :::
+
+- 去 [Chrome 扩展商店](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad)在线安装
+- [下载离线安装包手动安装](./install.html)（建议打不开 Chrome 扩展商店的用户使用这种方式）
 
 ### Firefox 浏览器
 

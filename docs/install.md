@@ -6,13 +6,13 @@
 
 ### 通过 Chrome Extension Downloader 网站下载离线安装包
 
+:::danger 注意！！
+由于我的误操作，我不小心将划词翻译从 Chrome 扩展商店里下架了，所以目前这个网站也不能下载到离线安装包了，请通过 GitHub 下载离线安装包。
+:::
+
 1. 打开 [https://chrome-extension-downloader.com/](https://chrome-extension-downloader.com/)
 2. 在首页的输入框中输入 `https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad`
 3. 点击 "Download extension"
-
-:::danger 注意！！
-由于我的误操作，我不小心将划词翻译从 Chrome 扩展商店里下架了，所以目前这个网站也不能下载到离线安装包了，请按照下面的步骤通过 GitHub 下载离线安装包。
-:::
 
 ### 在 GitHub 里下载离线安装包
 
