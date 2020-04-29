@@ -29,10 +29,6 @@ tagline: 让浏览不同语言的网站变得无比轻松的浏览器扩展程�
 
 Chrome 用户可以使用以下两种方式安装：
 
-:::danger 注意！！
-由于我的误操作，我不小心把划词翻译从 Chrome 扩展商店里下架了，目前正在联系 Chrome 扩展商店的支持团队尽快恢复。在恢复之前，请通过[下载离线安装包手动安装](./install.html)的方式安装划词翻译。
-:::
-
 - 去 [Chrome 扩展商店](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad)在线安装
 - [下载离线安装包手动安装](./install.html)（建议打不开 Chrome 扩展商店的用户使用这种方式）
 
