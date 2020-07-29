@@ -39,10 +39,6 @@ Chrome 用户可以使用以下两种方式安装：
 ![Firefox 扩展商店评分](https://img.shields.io/amo/rating/hcfy?style=flat-square&label=评分)
 ![Firefox 扩展商店周下载量](https://img.shields.io/amo/dw/hcfy?style=flat-square&label=周下载量)
 
-::: warning 火狐商店临时下架了划词翻译
-由于火狐在审核源码的时候无法从国外下载我的代码依赖的第三方包，所以临时下架了划词翻译。我正在跟他们积极沟通解决这个问题，重新上架后会在公众号内通知。
-:::
-
 Firefox 用户请到 [Firefox 扩展商店](https://addons.mozilla.org/zh-CN/firefox/addon/hcfy/)在线安装。
 
 ### Microsoft Edge 浏览器
