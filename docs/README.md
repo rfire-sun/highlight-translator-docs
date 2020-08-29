@@ -27,8 +27,14 @@ tagline: 让浏览不同语言的网站变得无比轻松的浏览器扩展程�
 ![Chrome 扩展商店用户数](https://img.shields.io/chrome-web-store/d/ikhdkkncnoglghljlkmcimlnlhkeamad.svg?style=flat-square&label=用户数)
 ![Chrome 扩展商店评分](https://img.shields.io/chrome-web-store/rating/ikhdkkncnoglghljlkmcimlnlhkeamad.svg?style=flat-square&label=评分)
 
-::: warning v7.0.1 版本误将点击扩展图标后的翻译弹窗去掉了，已提交了新版本重新加上，正在审核
-由于更新新版本的一个失误，现在 Chrome 上的 v7.0.1 版本的划词翻译错误的去掉了点击扩展图标后的翻译弹窗，我已经在 7.0.2 版本中加回去了，正在审核，疫情期间审核较慢，请大家耐心等待。大家也可以先临时换用 Firefox 或 Edge 浏览器使用划词翻译 v7.0.2。
+::: warning v7.0.1 版本漏掉了很多功能，我已提交了新版本，正在审核中
+由于失误，我误将没有开发完整的 v7.0.1 版本发布在了 Chrome 商店中，这些功能是缺失的：
+
+- 点击扩展图标后的翻译弹窗没有加上
+- Alt + A 的快捷键没有加上
+- 扩展图标的快捷键被错误的设置成了 Ctrl + Shift + Q（以前是 Ctrl + Q）
+
+这些确实的功能和问题已经在 v7.0.2 中解决，我已经提交给了 Chrome 商店审核，疫情期间审核较慢，请耐心等待；在审核期间，你可以安装 v6.x 版本的离线安装包，或者在 Firefox / Edge 浏览器上使用最新版本 v7.0.3 的划词翻译。
 :::
 
 Chrome 用户可以使用以下两种方式安装：
