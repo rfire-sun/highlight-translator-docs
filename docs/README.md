@@ -27,7 +27,7 @@ tagline: 让浏览不同语言的网站变得无比轻松的浏览器扩展程�
 ![Chrome 扩展商店用户数](https://img.shields.io/chrome-web-store/d/ikhdkkncnoglghljlkmcimlnlhkeamad.svg?style=flat-square&label=用户数)
 ![Chrome 扩展商店评分](https://img.shields.io/chrome-web-store/rating/ikhdkkncnoglghljlkmcimlnlhkeamad.svg?style=flat-square&label=评分)
 
-::: warning 由于我的失误，v7.0.1 版本的去掉了点击扩展图标后的翻译弹窗
+::: warning v7.0.1 版本误将点击扩展图标后的翻译弹窗去掉了，已提交了新版本重新加上，正在审核
 由于更新新版本的一个失误，现在 Chrome 上的 v7.0.1 版本的划词翻译错误的去掉了点击扩展图标后的翻译弹窗，我已经在 7.0.2 版本中加回去了，正在审核，疫情期间审核较慢，请大家耐心等待。
 :::
 
