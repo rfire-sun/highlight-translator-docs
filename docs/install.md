@@ -12,6 +12,8 @@
 
 ### 在 GitHub 里下载离线安装包
 
+目前 GitHub 只提供 v6.4.12 的离线安装包，v7.0 及以上版本的离线安装包请使用上面的下载方式。
+
 1. 打开 [https://github.com/lmk123/crx-selection-translate/releases/latest](https://github.com/lmk123/crx-selection-translate/releases/latest)
 2. 在 “Assets” 区域下载 Selection-Translator-{版本号}.crx 文件。
 
