@@ -24,4 +24,6 @@
 
 大功告成！
 
+注意：使用这种方式安装的 v6.4.12 划词翻译会自动更新到 v7。如果你想永久停留在 v6.4.12 版本，请参考[这个方法](https://github.com/lmk123/crx-selection-translate/issues/759#issuecomment-704015327)。
+
 <global-footer />
