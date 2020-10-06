@@ -7,7 +7,7 @@
 在提出问题之前，请先在[划词翻译的工单列表](https://github.com/lmk123/crx-selection-translate/issues)里搜索一下，是否已经有人提出相同的问题了。如果有，你可以注册一个 GitHub 账号，在工单下添加你的回复。
 
 ::: warning 为什么？
-截止 2020 年 4 月 27 日，在划词翻译的 626 个工单中，有 [118 个重复的工单](https://github.com/lmk123/crx-selection-translate/issues?q=label%3A%E9%87%8D%E5%A4%8D+is%3Aclosed)，**占工单总数的 19%**，这花费了我们很多不必要的时间。
+截止 2020 年 4 月 27 日，在划词翻译的 626 个工单中，有 [118 个重复的工单](https://github.com/lmk123/crx-selection-translate/issues?q=label%3A%E9%87%8D%E5%A4%8D+is%3Aclosed)，**占工单总数的 19%**，这花费了我很多不必要的时间。
 :::
 
 ## 如果你是想提出一个问题
@@ -41,11 +41,11 @@
 ...
 :::
 
-反馈问题时最好能附上相关文件，例如截图或者不能正常翻译的 PDF 文件。**我们会优先处理有详细重现步骤的问题。**
+反馈问题时最好能附上相关文件，例如截图或者不能正常翻译的 PDF 文件。**我会优先处理有详细重现步骤的问题。**
 
 ## 如果你是想提议一个新功能或功能改进
 
-在提出新功能/功能改进时，除了描述功能本身，也请告诉我们为什么你觉得有改进的必要。
+在提出新功能/功能改进时，除了描述功能本身，也请告诉我为什么你觉得有改进的必要。
 
 举个例子：
 
@@ -74,11 +74,11 @@
 
 ### 提交工单（推荐）
 
-划词翻译的源代码托管在 [GitHub](https://github.com/lmk123/crx-selection-translate) 里，我们建议直接打开 [GitHub 的工单系统](https://github.com/Selection-Translator/crx-selection-translate/issues)，点击“New Issue”提交新的工单。
+划词翻译的源代码托管在 [GitHub](https://github.com/lmk123/crx-selection-translate) 里，建议直接打开 [GitHub 的工单系统](https://github.com/Selection-Translator/crx-selection-translate/issues)，点击“New Issue”提交新的工单。
 
-我们主要使用这个渠道收集大家的反馈，并将进度更新在里面。
+我主要使用这个渠道收集大家的反馈，并将进度更新在里面。
 
-但是，使用 GitHub 的工单系统需要你创建一个 GitHub 的账号，并且 GitHub 在国内偶尔会打不开，所以我们还提供了下面两种反馈方式。
+但是，使用 GitHub 的工单系统需要你创建一个 GitHub 的账号，并且 GitHub 在国内偶尔会打不开，所以你还可以选择以下两种反馈方式。
 
 ### 在公众号里反馈
 

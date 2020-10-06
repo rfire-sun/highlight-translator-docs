@@ -1,6 +1,6 @@
 # 手动安装划词翻译到 Chrome 浏览器
 
-由于部分用户可能打不开 [Chrome 扩展商店](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad)，所以我们提供了下载离线安装包手动安装的方式。
+由于部分用户可能打不开 [Chrome 扩展商店](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad)，所以额外提供了下载离线安装包手动安装的方式。
 
 ## 一、下载离线安装包
 
