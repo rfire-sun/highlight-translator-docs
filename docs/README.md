@@ -17,7 +17,7 @@ tagline: 让浏览不同语言的网站变得无比轻松的浏览器扩展程�
 
 ### 20 多万用户的选择
 
-仅 Chrome 就有 20 多万的活跃用户，平均评分 4.59 分（满分 5 分）。
+仅 Chrome 就有 20 多万的活跃用户。
 
 ## 安装
 
@@ -25,6 +25,7 @@ tagline: 让浏览不同语言的网站变得无比轻松的浏览器扩展程�
 
 ![Chrome 扩展商店版本](https://img.shields.io/chrome-web-store/v/ikhdkkncnoglghljlkmcimlnlhkeamad.svg?style=flat-square&label=版本)
 ![Chrome 扩展商店用户数](https://img.shields.io/chrome-web-store/d/ikhdkkncnoglghljlkmcimlnlhkeamad.svg?style=flat-square&label=用户数)
+![Chrome 扩展商店评分](https://img.shields.io/chrome-web-store/rating/ikhdkkncnoglghljlkmcimlnlhkeamad?style=flat-square&label=评分)
 
 Chrome 用户可以使用以下两种方式安装：
 
