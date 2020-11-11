@@ -1,10 +1,16 @@
 # 更新日志
 
+## v7.2.1
+
+#### 功能改进
+
+- 给谷歌翻译加回语音朗读功能。
+
 ## v7.2.0
 
 #### bug 修复
 
-- [#797](https://github.com/lmk123/crx-selection-translate/issues/797) **由于 [https://translate.google.cn](https://translate.google.cn) 站点改版，原有的基于这个站点的谷歌翻译接口不能用了，所以在 v7.2.0 版本中换用了另一种谷歌翻译的接口，但它不提供语音朗读功能。**
+- [#797](https://github.com/lmk123/crx-selection-translate/issues/797) **由于 [https://translate.google.cn](https://translate.google.cn) 站点改版，原有的基于这个站点的谷歌翻译接口不能用了，所以在 v7.2.0 版本中换用了另一种谷歌翻译的接口，暂时还未支持语音朗读，将在后续版本中加入。**
 
 #### 新功能
 
@@ -90,7 +96,7 @@
 
 ## v7.1.0
 
-### 功能改进
+#### 功能改进
 
 - [#718](https://github.com/lmk123/crx-selection-translate/issues/718) 将翻译按钮尺寸调小
 - [#706](https://github.com/lmk123/crx-selection-translate/issues/706) 对界面布局进行了一系列变化：将语种切换等功能放进了点击设置图标后展开的快捷选项面板中，并给了用户一个弹窗提示，告知了界面的变化；让翻译面板变得紧凑一点；去掉了菜单按钮，直接将功能显示在了面板上等
