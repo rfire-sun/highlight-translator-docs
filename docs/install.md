@@ -4,11 +4,10 @@
 
 ## 一、下载离线安装包
 
-### 通过 Chrome Extension Downloader 网站下载离线安装包
+### 通过 Crx4Chrome 网站下载离线安装包
 
-1. 打开 [https://chrome-extension-downloader.com/](https://chrome-extension-downloader.com/)
-2. 在首页的输入框中输入 `https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad`
-3. 点击 "Download extension"
+1. 打开 [https://www.crx4chrome.com/extensions/ikhdkkncnoglghljlkmcimlnlhkeamad/](https://www.crx4chrome.com/extensions/ikhdkkncnoglghljlkmcimlnlhkeamad/)
+2. 点击 "Download"
 
 ### 在 GitHub 里下载离线安装包
 
