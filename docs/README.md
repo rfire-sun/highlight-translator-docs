@@ -30,7 +30,7 @@ tagline: 让浏览不同语言的网站变得无比轻松的浏览器扩展程�
 Chrome 用户可以使用以下两种方式安装：
 
 - 去 [Chrome 扩展商店](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad)在线安装
-- [下载离线安装包手动安装](./install.html)（建议打不开 Chrome 扩展商店的用户使用这种方式）
+- [下载离线安装包手动安装](./install.html)（打不开 Chrome 扩展商店和想要使用仍在审核当中的最新版本的用户可以用这种方式）
 
 ### Firefox 浏览器
 
@@ -43,6 +43,9 @@ Firefox 用户请到 [Firefox 扩展商店](https://addons.mozilla.org/zh-CN/fir
 
 ### Microsoft Edge 浏览器
 
-Microsoft Edge 用户请到 [Edge 扩展商店](https://microsoftedge.microsoft.com/addons/detail/oikmahiipjniocckomdccmplodldodja)在线安装。
+Microsoft Edge 用户可以使用以下两种方式安装：
+
+- 去 [Edge 扩展商店](https://microsoftedge.microsoft.com/addons/detail/oikmahiipjniocckomdccmplodldodja)在线安装。
+- [下载离线安装包手动安装](./install.html)（想要使用仍在审核当中的最新版本的用户可以用这种方式）
 
 <global-footer />
