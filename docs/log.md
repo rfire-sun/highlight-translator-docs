@@ -1,5 +1,22 @@
 # 更新日志
 
+## v7.2.2
+
+#### 新功能
+
+- [#789](https://github.com/lmk123/crx-selection-translate/issues/789) 将 v6 中的自动朗读功能重新添加回来了。
+- [#782](https://github.com/lmk123/crx-selection-translate/issues/782) 语种选择器会将最近使用过的语言放在列表最顶部。
+- [#787](https://github.com/lmk123/crx-selection-translate/issues/787) 独立翻译窗口的大小和位置会自动保存。如果你使用的是 Firefox 或者不是最新版本的 Chrome / Edge，那么需要在设置中手动保存。
+
+#### 功能改进
+
+- 当谷歌翻译报错时，显示[原因](/faq.html#%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B0%B7%E6%AD%8C%E7%BF%BB%E8%AF%91%E7%BB%8F%E5%B8%B8%E6%8F%90%E7%A4%BA-%E8%B0%B7%E6%AD%8C%E7%BF%BB%E8%AF%91%E6%9A%82%E6%97%B6%E4%B8%8D%E5%8F%AF%E7%94%A8%EF%BC%8C%E8%AF%B7%E7%A8%8D%E5%90%8E%E5%86%8D%E8%AF%95%E3%80%82-%EF%BC%9F)。
+- 更新了设置中关于使用方式的说明，着重介绍了要如何设置才可以仅在使用辅助键（Ctrl / Command）时才显示翻译结果。
+
+#### bug 修复
+
+- [#780](https://github.com/lmk123/crx-selection-translate/issues/780) 将独立窗口的默认宽度从 250px 调整为 270px，避免在 Windows 系统打开时造成快捷设置项换行的问题。
+
 ## v7.2.1
 
 #### 功能改进
