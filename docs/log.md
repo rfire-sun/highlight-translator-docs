@@ -15,7 +15,8 @@
 
 #### bug 修复
 
-- [#780](https://github.com/lmk123/crx-selection-translate/issues/780) 将独立窗口的默认宽度从 250px 调整为 270px，避免在 Windows 系统打开时造成快捷设置项换行的问题。
+- 修复了在 Firefox 浏览器中没有正确显示错误提示的问题。之前无论什么错误都会提示用户由于扩展更新了需要刷新网页，现在可以正确显示出网络错误、不支持的语种、服务器错误等提示。
+- [#780](https://github.com/lmk123/crx-selection-translate/issues/780) 将独立窗口的默认宽度从 250px 调整为 270px，避免了在 Windows 系统打开时快捷设置项会换行的问题。
 
 ## v7.2.1
 
