@@ -1,5 +1,21 @@
 # 更新日志
 
+## v7.2.3
+
+#### 功能改进
+
+- [#811](https://github.com/lmk123/crx-selection-translate/issues/811) 由于 Firefox 不支持自动打开本地 PDF、不支持全局快捷键和不支持自动保存独立窗口的位置和大小，所以更新了设置中的相关文案告知用户。
+- [#807](https://github.com/lmk123/crx-selection-translate/issues/807) 在勾选了”在所有网站中禁用网页划词“时，在浏览器内置页面中扩展图标弹窗的提示语之前是”已在所有网站中禁用网页划词“，但其实浏览器内置页面是无论如何都不能划词的，所以针对这种情况提示语改成了”此页面已禁用网页划词“。
+
+#### bug 修复
+
+- [#795](https://github.com/lmk123/crx-selection-translate/issues/795) **修复在 Gmail、百度网盘等网站中无法下载 PDF 附件的问题。**
+- [#809](https://github.com/lmk123/crx-selection-translate/issues/809) 修复了打开语种选择下拉框时，界面上的复制、朗读等按钮会浮现在下拉框上面的问题。
+- 修复了 Firefox 的一系列问题：
+  - [#806](https://github.com/lmk123/crx-selection-translate/issues/806) 修复了在内置 PDF 页面没有强制启用网页划词的问题。
+  - 修复了点击扩展图标弹窗中的”内置 PDF 阅读器“后打开的是一个错误页面的问题
+  - 修复了在划词翻译的设置页，扩展图标弹窗显示”此页面已启用网页划词“的问题。在划词翻译的设置页应该显示为”此页面已禁用网页划词“。
+
 ## v7.2.2
 
 #### 新功能
