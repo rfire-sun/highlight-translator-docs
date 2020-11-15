@@ -20,7 +20,6 @@ module.exports = {
     lastUpdated: '上次更新', // string | boolean
     nav: [
       { text: '首页', link: '/' },
-      { text: '使用帮助', link: '/manual.html' },
       { text: '常见问题', link: '/faq.html' },
       { text: '更新日志', link: '/log.html' },
       { text: '反馈问题', link: '/issues.html' },

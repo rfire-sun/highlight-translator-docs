@@ -3,23 +3,20 @@ sidebar: false
 home: true
 heroText: 划词翻译
 tagline: 让浏览不同语言的网站变得无比轻松的浏览器扩展程序。
+actionText: 立刻安装
+actionLink: /#安装
+features:
+- title: 简单实用
+  details: 划词即显示翻译结果，简单、方便、迅速，并且支持多种语言的朗读；能翻译 PDF 文档；支持有道翻译、百度翻译和谷歌翻译。
+- title: 持续更新
+  details: 自 2013 年 5 月 18 日发布第一个版本至今，划词翻译已持续维护了 7 年时间。
+- title: 20 多万用户的选择
+  details: 仅 Chrome 就有 20 多万的活跃用户。
 ---
 
-## 特点
-
-### 麻雀虽小，五脏俱全
-
-划词即显示翻译结果，简单、方便、迅速，并且支持多种语言的朗读；能翻译 PDF 文档；支持多种翻译引擎：[有道翻译](http://fanyi.youdao.com/)、[百度翻译](http://fanyi.baidu.com/)、[谷歌翻译](https://translate.google.cn/)。
-
-### 持续更新近 7 年
-
-自 2013 年 5 月 18 日发布第一个版本至今，**划词翻译已持续维护了 7 年时间**。[查看划词翻译大事记](./histroy.html)
-
-### 20 多万用户的选择
-
-仅 Chrome 就有 20 多万的活跃用户。
-
 ## 安装
+
+**划词翻译最新版本为 v7.2.3**。如果以下各商店显示的版本不是最新版本，则说明最新版本仍在此商店的审核流程当中。
 
 ### Chrome 浏览器
 
@@ -32,6 +29,20 @@ Chrome 用户可以使用以下两种方式安装：
 - 去 [Chrome 扩展商店](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad)在线安装
 - [下载离线安装包手动安装](./install.html)（打不开 Chrome 扩展商店和想要使用仍在审核当中的最新版本的用户可以用这种方式）
 
+### Microsoft Edge 浏览器
+
+![Edge 扩展商店版本](https://img.shields.io/static/v1?label=版本&message=v7.1.7&color=yellow&style=flat-square)
+![Edge 扩展商店评分](https://img.shields.io/static/v1?label=评分&message=4.6/5&color=success&style=flat-square)
+
+::: warning Edge 商店中的划词翻译版本过低
+Edge 商店里的版本仍然是 v7.1.7，此版本的谷歌翻译是不能用的。我提交了最新版本的审核，但 Edge 迟迟没有通过，请使用离线安装包手动安装最新版。
+:::
+
+Microsoft Edge 用户可以使用以下两种方式安装：
+
+- 去 [Edge 扩展商店](https://microsoftedge.microsoft.com/addons/detail/oikmahiipjniocckomdccmplodldodja)在线安装。
+- [下载离线安装包手动安装](./install.html)（想要使用仍在审核当中的最新版本的用户可以用这种方式）
+
 ### Firefox 浏览器
 
 ![Firefox 扩展商店版本](https://img.shields.io/amo/v/hcfy?style=flat-square&label=版本)
@@ -41,11 +52,6 @@ Chrome 用户可以使用以下两种方式安装：
 
 Firefox 用户请到 [Firefox 扩展商店](https://addons.mozilla.org/zh-CN/firefox/addon/hcfy/)在线安装。
 
-### Microsoft Edge 浏览器
-
-Microsoft Edge 用户可以使用以下两种方式安装：
-
-- 去 [Edge 扩展商店](https://microsoftedge.microsoft.com/addons/detail/oikmahiipjniocckomdccmplodldodja)在线安装。
-- [下载离线安装包手动安装](./install.html)（想要使用仍在审核当中的最新版本的用户可以用这种方式）
+[划词翻译大事记](./histroy.html)
 
 <global-footer />
