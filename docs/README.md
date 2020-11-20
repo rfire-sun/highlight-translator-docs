@@ -26,7 +26,7 @@ features:
 
 Chrome 用户可以使用以下两种方式安装：
 
-- 去 [Chrome 扩展商店](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad)在线安装
+- 去 [Chrome 扩展商店](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad)在线安装。新版本提交后大概 2 个工作日完成审核。
 - [下载离线安装包手动安装](./install.html)（打不开 Chrome 扩展商店和想要使用仍在审核当中的最新版本的用户可以用这种方式）
 
 ### Microsoft Edge 浏览器
@@ -36,7 +36,7 @@ Chrome 用户可以使用以下两种方式安装：
 
 Microsoft Edge 用户可以使用以下两种方式安装：
 
-- 去 [Edge 扩展商店](https://microsoftedge.microsoft.com/addons/detail/oikmahiipjniocckomdccmplodldodja)在线安装。
+- 去 [Edge 扩展商店](https://microsoftedge.microsoft.com/addons/detail/oikmahiipjniocckomdccmplodldodja)在线安装。新版本提交后大概 5 个工作日完成审核。
 - [下载离线安装包手动安装](./install.html)（想要使用仍在审核当中的最新版本的用户可以用这种方式）
 
 ### Firefox 浏览器
@@ -46,7 +46,7 @@ Microsoft Edge 用户可以使用以下两种方式安装：
 ![Firefox 扩展商店评分](https://img.shields.io/amo/rating/hcfy?style=flat-square&label=评分)
 ![Firefox 扩展商店周下载量](https://img.shields.io/amo/dw/hcfy?style=flat-square&label=周下载量)
 
-Firefox 用户请到 [Firefox 扩展商店](https://addons.mozilla.org/zh-CN/firefox/addon/hcfy/)在线安装。
+Firefox 用户请到 [Firefox 扩展商店](https://addons.mozilla.org/zh-CN/firefox/addon/hcfy/)在线安装。新版本提交后大概 10 分钟完成审核。
 
 [划词翻译大事记](./histroy.html)
 
