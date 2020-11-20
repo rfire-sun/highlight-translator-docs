@@ -1,5 +1,17 @@
 # 更新日志
 
+## v7.2.4
+
+#### 功能改进
+
+- 将“自动检测”和“中文(简体)”默认放入了最近使用的列表当中。这个改动仅对新安装的用户有影响，对已经安装的用户无影响。
+
+#### bug 修复
+
+- [#821](https://github.com/lmk123/crx-selection-translate/issues/821) 修复打开语种列表时会将网页滚动到最上方的问题。
+- [#785](https://github.com/lmk123/crx-selection-translate/issues/785) 修复在少数网页划词后不显示翻译按钮的问题。这顺便解决了在翻译弹窗内划词后，使用 Alt + A 快捷键没有触发翻译的问题。
+- [#767](https://github.com/lmk123/crx-selection-translate/issues/767) 修复了在少数网页中，翻译弹窗会随着网页的滚动偏移位置的问题。
+
 ## v7.2.3
 
 #### 功能改进
