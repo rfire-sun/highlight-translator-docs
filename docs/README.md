@@ -31,12 +31,8 @@ Chrome 用户可以使用以下两种方式安装：
 
 ### Microsoft Edge 浏览器
 
-![Edge 扩展商店版本](https://img.shields.io/static/v1?label=版本&message=v7.1.7&color=yellow&style=flat-square)
+![Edge 扩展商店版本](https://img.shields.io/static/v1?label=版本&message=v7.2.3&color=success&style=flat-square)
 ![Edge 扩展商店评分](https://img.shields.io/static/v1?label=评分&message=4.6/5&color=success&style=flat-square)
-
-::: warning Edge 商店中的划词翻译版本过低
-Edge 商店里的版本仍然是 v7.1.7，此版本的谷歌翻译是不能用的。我提交了最新版本的审核，但 Edge 迟迟没有通过，请使用离线安装包手动安装最新版。
-:::
 
 Microsoft Edge 用户可以使用以下两种方式安装：
 
