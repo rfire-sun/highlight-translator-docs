@@ -1,5 +1,23 @@
 # 更新日志
 
+## v7.3.0
+
+#### 新功能
+
+- [#464](https://github.com/lmk123/crx-selection-translate/issues/464) 添加收藏夹功能并默认开启。
+- [#242](https://github.com/lmk123/crx-selection-translate/issues/242) 添加历史记录功能并默认关闭。
+
+收藏夹和历史记录功能目前还比较“简陋”，未来会逐步完善，也欢迎大家向我提建议。
+
+#### 功能改进
+
+- 将翻译面板的设置图标和关闭图标对齐。
+
+#### bug 修复
+
+- [#823](https://github.com/lmk123/crx-selection-translate/issues/823) [#829](https://github.com/lmk123/crx-selection-translate/issues/829) [#830](https://github.com/lmk123/crx-selection-translate/issues/830) 修复一系列在部分内容较长的页面中划词翻译窗口有明显卡顿的问题。
+- 将谷歌翻译的错误提示时显示的测试链接改为正确的链接。
+
 ## v7.2.4
 
 #### 功能改进

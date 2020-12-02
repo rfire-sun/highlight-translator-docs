@@ -2,15 +2,31 @@
 
 感谢你愿意将遇到的问题反馈给划词翻译、或是给划词翻译提供新的功能提议！请按照如下步骤反馈问题。
 
-## 检查问题是否已经有人提出来过了
+## 反馈渠道
 
-在提出问题之前，请先在[划词翻译的工单列表](https://github.com/lmk123/crx-selection-translate/issues)里搜索一下，是否已经有人提出相同的问题了。如果有，你可以注册一个 GitHub 账号，在工单下添加你的回复。
+划词翻译提供了三种反馈渠道。
 
-::: warning 为什么？
-截止 2020 年 4 月 27 日，在划词翻译的 626 个工单中，有 [118 个重复的工单](https://github.com/lmk123/crx-selection-translate/issues?q=label%3A%E9%87%8D%E5%A4%8D+is%3Aclosed)，**占工单总数的 19%**，这花费了我很多不必要的时间。
-:::
+### 提交工单（推荐）
 
-## 如果你是想提出一个问题
+划词翻译的源代码托管在 [GitHub](https://github.com/lmk123/crx-selection-translate) 里，建议直接打开 [GitHub 的工单系统](https://github.com/Selection-Translator/crx-selection-translate/issues)，点击“New Issue”提交新的工单。
+
+我主要使用这个渠道收集大家的反馈，并将进度更新在里面。
+
+但是，使用 GitHub 的工单系统需要你创建一个 GitHub 的账号，并且 GitHub 在国内偶尔会打不开，所以你还可以选择以下两种反馈方式。
+
+### 在公众号里反馈
+
+你可以关注划词翻译的公众号“划词翻译”，直接给公众号发送消息即可。
+
+### 使用邮件反馈
+
+你可以发送邮件给 [me@limingkai.cn](mailto:me@limingkai.cn) 反馈问题，我会定期查看邮箱并回复。
+
+## 反馈格式
+
+请尽量使用以下格式以减少沟通成本。
+
+### 如果你是想提出一个问题
 
 请按照如下的格式提出你的问题：
 
@@ -43,7 +59,7 @@
 
 反馈问题时最好能附上相关文件，例如截图或者不能正常翻译的 PDF 文件。**我会优先处理有详细重现步骤的问题。**
 
-## 如果你是想提议一个新功能或功能改进
+### 如果你是想提议一个新功能或功能改进
 
 在提出新功能/功能改进时，除了描述功能本身，也请告诉我为什么你觉得有改进的必要。
 
@@ -67,25 +83,5 @@
 **（一天后）我**：那这样是不是可以...
 ...
 :::
-
-## 反馈渠道
-
-划词翻译提供了三种反馈渠道。
-
-### 提交工单（推荐）
-
-划词翻译的源代码托管在 [GitHub](https://github.com/lmk123/crx-selection-translate) 里，建议直接打开 [GitHub 的工单系统](https://github.com/Selection-Translator/crx-selection-translate/issues)，点击“New Issue”提交新的工单。
-
-我主要使用这个渠道收集大家的反馈，并将进度更新在里面。
-
-但是，使用 GitHub 的工单系统需要你创建一个 GitHub 的账号，并且 GitHub 在国内偶尔会打不开，所以你还可以选择以下两种反馈方式。
-
-### 在公众号里反馈
-
-你可以关注划词翻译的公众号“划词翻译”，直接给公众号发送消息即可。
-
-### 使用邮件反馈
-
-你可以发送邮件给 [me@limingkai.cn](mailto:me@limingkai.cn) 反馈问题，我会定期查看邮箱并回复。
 
 <global-footer />
