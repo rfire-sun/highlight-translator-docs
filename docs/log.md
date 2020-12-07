@@ -1,5 +1,16 @@
 # 更新日志
 
+## v7.3.2
+
+#### 新功能
+
+- [#791](https://github.com/lmk123/crx-selection-translate/issues/791) 现在可以调整翻译面板的字体和按钮的大小了，在【设置页】->【翻译面板】->【通用设置】当中。
+
+#### bug 修复
+
+- [#841](https://github.com/lmk123/crx-selection-translate/issues/841) 修复 v7.3.1 导致的在少部分网站中登录请求会失败的问题。
+- [#842](https://github.com/lmk123/crx-selection-translate/issues/842) 修复 v7.3.1 发布后在 Chrome 72 / Edge 78 及以下版本中划词翻译无法使用的问题。
+
 ## v7.3.1
 
 #### 新功能
